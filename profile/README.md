@@ -24,7 +24,7 @@
   - **Lowest possible overhead.** Compliance work doesn't generate revenue —
     every hour spent on it is a tax on the bank. Polars and uv keep that tax
     small. Millions of exposures in seconds, not hours.
-  - **Built after hours.** Maintained by ex-bank engineers in the spare hours
+  - **Built after hours.** Maintained by engineers in the spare hours
     that don't belong to a quarterly cycle — which is, it turns out, exactly
     when good infrastructure tends to get written.
 
