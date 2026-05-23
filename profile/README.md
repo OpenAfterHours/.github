@@ -1,4 +1,4 @@
-# OpenAfterHours
+# OpenAfterHours.club
 
   > Open-source tooling for the regulatory work that protects the public but
   > rarely makes the slide deck — written by engineers, for engineers, in the
