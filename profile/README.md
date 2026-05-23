@@ -1,10 +1,10 @@
-# OpenAfterHours.club
+# The OpenAfterHours.club
 
   > Open-source tooling for the regulatory work that protects the public but
   > rarely makes the slide deck — written by engineers, for engineers, in the
   > small hours.
 
-  **Landing page** → [openafterhours.github.io](https://openafterhours.github.io)
+  **Landing page** → [openafterhours.club](https://openafterhours.github.io)
 
   ## What we ship
 
