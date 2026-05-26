@@ -22,7 +22,7 @@
     Every formula in the open, every assumption auditable, every result
     reproducible from the same lockfile.
   - **Lowest possible overhead.** Compliance work doesn't generate revenue —
-    every hour spent on it is a tax on the bank/it's cusomers. Polars and uv keep that tax
+    every hour spent on it is a tax on the bank and it's cusomers. Polars and uv keep that tax
     small. Millions of exposures in seconds, not hours.
   - **Built after hours.** Maintained by engineers in the spare hours
     that don't belong to a quarterly cycle — which is, it turns out, exactly
