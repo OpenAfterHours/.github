@@ -13,6 +13,7 @@
   | [`rwa_calculator`](https://github.com/OpenAfterHours/rwa_calculator) | UK Credit Risk & Counterparty Credit Risk RWA engine for CRR (Basel 3.0) and Basel 3.1 (PRA PS1/26). Standardised, F-IRB, A-IRB, Slotting. Polars all the way down. |
   | [`moonlit`](https://github.com/OpenAfterHours/moonlit) | Bundle a uv-managed project — or a whole uv workspace — into a single self-contained zipapp per PEP 441. No installer, no host venv, just one `.pyz`. |
   | [`watchfire`](https://github.com/OpenAfterHours/watchfire) | Static analysis for UK financial regulatory citations in Python code. |
+  | [`curfew`](https://github.com/OpenAfterHours/curfew) | curfew is a local-first Python dependency & module-boundary checker. |
 
   ## Why we are building these tools?
 
