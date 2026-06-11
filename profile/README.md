@@ -14,6 +14,7 @@
   | [`moonlit`](https://github.com/OpenAfterHours/moonlit) | Bundle a uv-managed project — or a whole uv workspace — into a single self-contained zipapp per PEP 441. No installer, no host venv, just one `.pyz`. |
   | [`watchfire`](https://github.com/OpenAfterHours/watchfire) | Static analysis for UK financial regulatory citations in Python code. |
   | [`curfew`](https://github.com/OpenAfterHours/curfew) | curfew is a local-first Python dependency & module-boundary checker. |
+  | [`mooring`](https://github.com/OpenAfterHours/mooring) | Mooring is a single-file app (mooring.pyz / mooring.exe) that lets a team of data analysts pull, edit, and push marimo notebooks stored in a shared GitHub repo — without git installed on their machines. |
 
   ## Why we are building these tools?
 
